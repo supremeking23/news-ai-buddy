@@ -60,6 +60,9 @@ function App() {
 				<p>Your news AI buddy...</p>
 				<NewsCards articles={newsArticle} activeArticle={activeArticle} />
 			</div>
+			<footer>
+				<p>Created by Ivan Christian Jay Funcion</p>
+			</footer>
 		</>
 	);
 }
